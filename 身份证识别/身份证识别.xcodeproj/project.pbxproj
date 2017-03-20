@@ -17,7 +17,7 @@
 		F50EE4A81E76CA0A00E8B330 /* _____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = F50EE4A71E76CA0A00E8B330 /* _____Tests.m */; };
 		F50EE4B31E76CA0A00E8B330 /* _____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F50EE4B21E76CA0A00E8B330 /* _____UITests.m */; };
 		F53C0F451E7CC5C400F2B8C3 /* UIImage+extension.m in Sources */ = {isa = PBXBuildFile; fileRef = F53C0F441E7CC5C400F2B8C3 /* UIImage+extension.m */; };
-		F53C0F471E7CCA6200F2B8C3 /* tessdata in Resources */ = {isa = PBXBuildFile; fileRef = F53C0F461E7CCA6200F2B8C3 /* tessdata */; };
+		F5C51C011E7E518A007437FF /* tessdata in Resources */ = {isa = PBXBuildFile; fileRef = F5C51C001E7E518A007437FF /* tessdata */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,7 +59,7 @@
 		F50EE4B41E76CA0A00E8B330 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F53C0F431E7CC5C400F2B8C3 /* UIImage+extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+extension.h"; sourceTree = "<group>"; };
 		F53C0F441E7CC5C400F2B8C3 /* UIImage+extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+extension.m"; sourceTree = "<group>"; };
-		F53C0F461E7CCA6200F2B8C3 /* tessdata */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tessdata; sourceTree = "<group>"; };
+		F5C51C001E7E518A007437FF /* tessdata */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tessdata; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,7 +130,7 @@
 		F50EE48C1E76CA0A00E8B330 /* 身份证识别 */ = {
 			isa = PBXGroup;
 			children = (
-				F53C0F461E7CCA6200F2B8C3 /* tessdata */,
+				F5C51C001E7E518A007437FF /* tessdata */,
 				F50EE4901E76CA0A00E8B330 /* AppDelegate.h */,
 				F50EE4911E76CA0A00E8B330 /* AppDelegate.m */,
 				F53C0F431E7CC5C400F2B8C3 /* UIImage+extension.h */,
@@ -283,7 +283,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F50EE49D1E76CA0A00E8B330 /* LaunchScreen.storyboard in Resources */,
-				F53C0F471E7CCA6200F2B8C3 /* tessdata in Resources */,
+				F5C51C011E7E518A007437FF /* tessdata in Resources */,
 				F50EE49A1E76CA0A00E8B330 /* Assets.xcassets in Resources */,
 				F50EE4981E76CA0A00E8B330 /* Main.storyboard in Resources */,
 			);
